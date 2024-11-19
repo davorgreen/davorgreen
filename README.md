@@ -8,6 +8,9 @@
 - ReactJS, Tailwind CSS
 - “PAWConnect”- social media app
 - https://social-media-app-theta-ebon.vercel.app/login
+- login: username-grinfelderdavor@gmail.com
+  password-
+  Test123!
 - ReactJS, Tailwind CSS
 
 
