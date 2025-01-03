@@ -14,7 +14,7 @@
 ---password---
   Test123!
 - ReactJS, Redux, Tailwind CSS
-- “FlexCar”- in progress...
+- “FlexCar”- car catalogue - in progress...
 - https://flex-car.vercel.app
 - React, Typescript, Tailwind CSS
 
