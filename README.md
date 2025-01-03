@@ -5,7 +5,7 @@
 - 💻 My projects:
 - “GreenGo”- coffee shop
 - https://coffee-shop-six-gold.vercel.app/
-- ReactJS, Tailwind CSS
+- ReactJS, Redux, Tailwind CSS
 - “PAWConnect”- social media app
 - https://social-media-app-theta-ebon.vercel.app/login
 - login:
@@ -13,7 +13,10 @@
  grinfelderdavor@gmail.com
 ---password---
   Test123!
-- ReactJS, Tailwind CSS
+- ReactJS, Redux, Tailwind CSS
+- “FlexCar”- car catalogue
+- flex-car.vercel.app
+- React, Typescript, Tailwind CSS
 
 
 
