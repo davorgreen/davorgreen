@@ -8,19 +8,9 @@
 - ReactJS, Redux, Tailwind CSS
 - “PAWConnect”- social media app
 - https://social-media-app-theta-ebon.vercel.app/login
-- login:
----username---
- grinfelderdavor@gmail.com
----password---
-  Test123!
 - ReactJS, Redux, Tailwind CSS
 - “FlexCar”- car catalogue 
 - https://flex-car.vercel.app
-- login:
----username---
- grinfelderdavor@gmail.com
----password---
-  Fudbal12345
 - React, Typescript, Tailwind CSS
 
   ## Technologies
