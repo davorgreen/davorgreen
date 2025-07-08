@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Davor Grinfelder @davorgreen
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React && Typescript
+- 🌱 I’m currently learning:
+- Frontend: React with TypeScript for type safety and better developer experience.
+- Backend: Node.js with Express, providing a fast and scalable REST API.
+- Database: MongoDB for flexible and schema-less data storage.
 - 📫 How to reach me grinfelderdavor@gmail.com
 - 💻 My projects:
 - “GreenGo”- coffee shop
