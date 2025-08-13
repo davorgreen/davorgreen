@@ -15,7 +15,7 @@
 - “FlexCar”- car catalogue 
 - https://flex-car.vercel.app
 - React, Typescript, Tailwind CSS
-- - “PawStay”- booking
+- “PawStay”- booking
 - https://github.com/davorgreen/PawStay
 - React, Typescript, Context API, Tailwind CSS, Nodejs, Expressjs, MongoDB, Cloudinary
 
