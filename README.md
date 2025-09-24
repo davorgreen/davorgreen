@@ -18,6 +18,9 @@
 - “PawStay”- booking
 - https://github.com/davorgreen/PawStay
 - React, Typescript, Context API, Tailwind CSS, Nodejs, Expressjs, MongoDB, Cloudinary
+- “Memora”- your personal space to upload, explore, and interact with photos online
+- https://github.com/davorgreen/Memora
+- React, Typescript, Context API, Tailwind CSS, Nodejs, Expressjs, MongoDB, Cloudinary, Socket.IO
 
 
   ## Technologies
@@ -32,6 +35,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
 
 
 
